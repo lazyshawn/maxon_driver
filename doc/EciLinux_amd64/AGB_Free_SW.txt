@@ -1,0 +1,135 @@
+End User License Agreement for IXXAT Software Products Provided Free-of-Charge
+ 
+
+This software license agreement (following named "Agreement") is a legal
+agreement between you and your company ("Client") and
+HMS Technology Center Ravensburg GmbH ("HMS"). By using the software program(s)
+and/or components included in the zip file or other type of
+software-package ("Software"), Client agrees to be bound by the terms of this
+Agreement. If Client does not agree to the terms of this Agreement, Software
+and the accompanying items (including any printed materials, binders or other
+containers) shall be promptly un-installed and deleted or destroyed.
+
+
+§ 1 Scope of Delivery of Software
+
+1.1 Software is provided as it is. HMS does not guarantee that Software embodies
+all necessary legal provisions and all standards related to the Software.
+
+1.2 Software is delivered by HMS in a machine-readable format
+(object code or source-code), together with installation instructions and user
+documentation (if provided). Installation instructions and user documentation
+may be provided in electronic format such as PDF only.
+
+
+§ 2 Right to Use Software 
+
+2.1 HMS grants to Client the right to use Software to the extent agreed in 
+this agreement. Client may use Software for its own purposes and for the 
+purposes of Client's group of companies. 
+
+2.2 Software is provided free-of-charge to Client as free supplement to other
+IXXAT software and hardware products offered by HMS.
+
+2.3 Client is not entitled to distribute nor provide the Software to any 3rd
+party if not explicitly permitted by HMS in writing.
+
+2.4 The Client agrees to use Software only on configurations that HMS has 
+declared to be compatible with Software.
+
+2.5 HMS grants Client the right to use Software only in combination with
+standard HMS hardware products or with OEM hardware products available from
+HMS. The usage of Software in combination with 3rd party hardware is prohibited
+unless explicitly permitted by HMS in writing.
+
+2.6 Client may use Software as for his application or product - this includes
+the development of software-products that exchange data with Software provided
+by HMS. Client shall not be entitled to derive a product from Software that is
+competing with HMS products, solutions or services. 
+
+
+§ 3 Performance 
+
+3.1 Client shall be responsible for the installation of Software on its 
+IT-system. 
+
+3.2 Client shall be responsible for the implementation of Software; Client is 
+also responsible to test Software under the conditions it shall be used before 
+using it productively. 
+
+
+§ 4 Client's Responsibilities for Software Protection 
+
+4.1 Client acknowledges that Software and the related documentation - including
+future versions - are copyrighted, and represent confidential information and
+trade secrets proprietary to HMS or to HMS’s supplier. Client shall take all
+necessary steps to avoid disclosure of the source-code of Software and the
+related documentation to any third party. If Software is delivered in
+source-code, Client shall make it available to any third party only with HMS's
+permission. Client’s obligation shall be permanent. The permission may not be
+unreasonably withheld, but it need not be given to enable Client to obtain
+maintenance from a third party.
+
+4.2 Client must neither remove nor modify any copyright information of
+Software - especially if provided by HMS in source-code - or of the documentation
+provided with Software. Client is obliged to have the HMS copyright and this
+Agreement directly accessible for users of the Software or Client’s product.
+
+4.3 Client may copy Software only for back-up purposes, for replacement or - if 
+source-code has been delivered - in order to search for defects.
+
+4.4 Client shall not be entitled to translate, distribute, modify or develop any
+works based on provided user documentation. If documentation is provided not in
+an electronic format, Client may make copies of the documentation only if
+admissible and only for internal purposes.
+
+4.5 HMS may revoke Client's right of use, if Client substantially violates its
+obligations referring to software protection.
+
+
+§ 5 Warranty and Maintenance 
+
+5.1 Software is provided for free without maintenance and warranty. Client may 
+report deficiencies to HMS.
+
+5.2 HMS may fix deficiencies or develop, update and upgrade Software at its sole
+discretion and without prior announcement. This includes implementation of new
+features and the adaptation to system software.
+
+
+§ 6 Support 
+
+6.1 HMS shall not be obliged to provide support for Software. 
+
+
+§ 7 IXXAT's Liability 
+
+7.1 HMS, ITS AFFILIATES AND/OR ITS SUPPLIERS SHALL NOT BE LIABLE FOR ANY DAMAGES
+WHATSOEVER (INCLUDING WITHOUT LIMITATION, DIRECT OR INDIRECT DAMAGES FOR PERSONAL
+INJURY, LOSS OF BUSINESS PROFITS, BUSINESS INTERRUPTION, LOSS OF BUSINESS
+INFORMATION DAMAGES FOR LOSS OF DATA, OR SOFTWARE RESTORATION, OR ANY OTHER
+PECUNIARY LOSS) ARISING OUT OF THE USE OF OR INABILITY TO USE THE SOFTWARE, EVEN
+IF HMS HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+
+7.2 IN ANY CASE, THE ENTIRE LIABILITY OF HMS, ITS AFFILIATES AND ITS SUPPLIERS',
+UNDER ANY PROVISION OF THIS AGREEMENT, SHALL BE LIMITED TO THE AMOUNT OF THE PAYMENTS
+MADE BY CLIENT TO HMS FOR THIS SOFTWARE. YOU MAY CLAIM FOR HIGHER LIABILITY OF HMS,
+BUT MUST THEN PAY A THIRD CHARGE FOR THE AGGRAVATED RISK.
+
+
+§ 8 General Matters 
+
+8.1 This Agreement shall constitute the entire agreement between the parties and
+shall not be altered, amended or cancelled, except in writing and with the consent
+and signature of all parties concerned.
+
+8.2 The parties, if they are merchants by registration, hereby submit to the
+jurisdiction of HMS's main place of business.
+
+8.3 This Agreement shall conform with and be governed by the laws of Germany.
+The United Nations Convention on Contracts for the International Sale of Goods
+(which has been incorporated into German law) shall not apply to foreign Clients.
+
+
+© 2016, HMS Technology Center Ravensburg GmbH Version: January 21, 2016 
+
